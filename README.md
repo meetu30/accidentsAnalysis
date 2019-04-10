@@ -1,2 +1,2 @@
-# accidentsAnalysis
-US Traffic Fatalities Analysis
+# Visual Analytics Final Project
+# Tarun, Meetu and Deepshika
